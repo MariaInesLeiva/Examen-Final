@@ -1,0 +1,14 @@
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\bin\Debug\net8.0\Final-MariaInes-LeivaCasiano.exe
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\bin\Debug\net8.0\Final-MariaInes-LeivaCasiano.deps.json
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\bin\Debug\net8.0\Final-MariaInes-LeivaCasiano.runtimeconfig.json
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\bin\Debug\net8.0\Final-MariaInes-LeivaCasiano.dll
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\bin\Debug\net8.0\Final-MariaInes-LeivaCasiano.pdb
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.AssemblyInfoInputs.cache
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.AssemblyInfo.cs
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.csproj.CoreCompileInputs.cache
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.dll
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\refint\Final-MariaInes-LeivaCasiano.dll
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.pdb
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\Final-MariaInes-LeivaCasiano.genruntimeconfig.cache
+C:\Users\manes\OneDrive\Documentos\Final-MariaInes-LeivaCasiano\obj\Debug\net8.0\ref\Final-MariaInes-LeivaCasiano.dll

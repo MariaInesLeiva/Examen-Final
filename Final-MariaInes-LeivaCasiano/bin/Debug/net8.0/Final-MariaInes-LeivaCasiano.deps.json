@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final-MariaInes-LeivaCasiano/1.0.0": {
+        "runtime": {
+          "Final-MariaInes-LeivaCasiano.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final-MariaInes-LeivaCasiano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
